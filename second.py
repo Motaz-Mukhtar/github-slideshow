@@ -1,7 +1,7 @@
 import typing_extensions
 
 
-name = "motaz"
+name = "Osama"
 age = 17
 rank = 190
 a, b, c =10, 20, 30
