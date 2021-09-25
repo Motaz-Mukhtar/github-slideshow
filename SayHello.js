@@ -1,1 +1,4 @@
-Print SayHello Fucntion
+fucntion sayHello (Name) {
+  return `Hello ${Name}`;  
+}
+sayHello("Osama");
